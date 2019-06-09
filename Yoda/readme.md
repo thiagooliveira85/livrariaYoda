@@ -17,5 +17,5 @@ Faça o diagrama de classes do problema acima e implemente sua solução em Java
 
 
 
-![Diagrama de Classes](Diagrama de Classes.jpg)
+![Diagrama](Diagrama.jpg)
 
